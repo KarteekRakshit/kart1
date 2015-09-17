@@ -77,3 +77,26 @@ span {
 	color: #ffffff;
 
 }
+
+#fb {
+	display: inline;
+	position: relative;
+	margin-left: 50px;
+}
+#tw {
+	display: inline;
+	position: relative;
+	margin-left: 5px;
+}
+#gp {
+	display: inline;
+	position: relative;
+	margin-left: 5px;
+}
+
+#ln {
+	display: inline;
+	position: relative;
+	margin-left: 5px;
+}
+
