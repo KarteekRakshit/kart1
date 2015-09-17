@@ -79,29 +79,41 @@ span {
 
 	font-size: 18px;
 
-	color: #ffffff;
+	//color: #ffffff;
 
 }
 
-#fb {
+
+#Find {
 	display: inline;
 	position: relative;
 	margin-left: 550px;
+	color:#3D59AB;
+	font-family:verdana;
+	font-size:15px;
+}
+#fb {
+	display: inline;
+	position: relative;
+	margin-left: 5px;
 }
 #tw {
 	display: inline;
 	position: relative;
 	margin-left: 5px;
+	color:blue;
 }
 #gp {
 	display: inline;
 	position: relative;
 	margin-left: 5px;
+	color:red;
 }
 
 #ln {
 	display: inline;
 	position: relative;
 	margin-left: 5px;
+	color:white;
 }
 
